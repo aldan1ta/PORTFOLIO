@@ -23,6 +23,5 @@ Curse hasta el PET aunque no di el examen. Hice tanto en el Anglo como en el Dic
 ## Mi trabajo
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba] (https://onedrive.live.com/redirresid=EBF35E2BF86D544B!844&ithint=file%2cxlsx&login_hint=aaldi11%40hotmail.com&ct=1668230362196&wdOrigin=OFFICECOM-WEB.START.REC&cid=a94905ec-05db-410a-a51e-7276214f3493)
-  * [Gestión de incidentes](https://onedrive.live.com/edit.aspx?resid=EBF35E2BF86D544B!849&cid=040e34c4-5ac1-40cc-a0c4-17323ed95ca4&ithint=file%2cxlsx&wdOrigin=OFFICECOM-WEB.START.REC)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
+  * [Casos de Prueba] 
+  * [Gestión de incidentes]
